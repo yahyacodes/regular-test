@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Edu+NSW+ACT+Foundation:wght@500&family=Edu+SA+Beginner&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    position: absolute;
+    background-color: #0082e6;
+    left: 10rem;
+    width: 80%;
+    height: 60px;
+}
+
+.logo {
+    color: #fff;
+    font-size: 35px;
+    line-height: 60px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.navbar ul {
+    float: right;
+    margin-right: 100px;
+}
+
+.navbar ul li {
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 5px;
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.hi {
+    position: absolute;
+    top: 15rem;
+    font-size: 25px;
+    left: 12rem;
+    text-decoration: underline;
+    text-decoration-color: #0082e6;
+}
+
+.name {
+    position: absolute;
+    top: 17rem;
+    font-size: 21px;
+    left: 12rem;
+}
+
+.name span {
+    font-size: 30px;
+    color: #0082e6;
+}
+
+.work {
+    position: absolute;
+    top: 19rem;
+    font-size: 21px;
+    left: 15rem;
+}
+
+.work span {
+    font-size: 30px;
+    color: #0082e6;
+}
+
+.phrase {
+    position: absolute;
+    top: 21.5rem;
+    font-size: 17px;
+    left: 12rem;
+    color: grey;
+}
+
+#github {
+    position: absolute;
+    top: 24.5rem;
+    left: 15rem;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+#linkedin {
+    position: absolute;
+    top: 24.5rem;
+    left: 17rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #0082e6;
+}
+
+#instagram {
+    position: absolute;
+    top: 24.5rem;
+    left: 19rem;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+#twitter {
+    position: absolute;
+    top: 24.5rem;
+    left: 21rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #0082e6;
+}
+
+i:hover {
+    padding: 0px 2px;
+}
+
+.btn-resume {
+    position: absolute;
+    top: 27rem;
+    left: 15rem;
+    padding: 8px 20px;
+    color: #0082e6;
+    background-color: white;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    padding: 10px 25px;
+}
+
+.btn-contact {
+    position: absolute;
+    top: 27rem;
+    left: 24rem;
+    padding: 8px 20px;
+    color: white;
+    background-color: #0082e6;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.image-hero {
+    position: absolute;
+    top: 12rem;
+    right: 15rem;
+}
+
+.about {
+    position: absolute;
+    top: 57rem;
+    font-size: 30px;
+    left: 12rem;
+    text-decoration: underline;
+    text-decoration-color: #0082e6;
+}
+
+.about-me {
+    position: absolute;
+    top: 63rem;
+    font-size: 19px;
+    right: 20rem;
+    width: 500px;
+    color: grey;
+}
+
+.image-about {
+    position: absolute;
+    top: 63rem;
+    left: 15rem;
+}
+
+.btn-about {
+    position: absolute;
+    top: 85rem;
+    right: 24rem;
+    padding: 8px 20px;
+    color: #0082e6;
+    background-color: white;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
