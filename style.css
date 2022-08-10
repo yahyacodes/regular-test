@@ -189,3 +189,319 @@ button:hover {
     cursor: pointer;
     font-size: 17px;
 }
+
+.skills {
+    position: absolute;
+    top: 97rem;
+    font-size: 30px;
+    left: 12rem;
+    text-decoration: underline;
+    text-decoration-color: #0082e6;
+}
+
+.my-skills {
+    position: absolute;
+    top: 100rem;
+    font-size: 19px;
+    left: 20rem;
+    width: 500px;
+    color: grey;
+}
+
+.stacks {
+    position: absolute;
+    top: 97rem;
+    font-size: 30px;
+    right: 40rem;
+    text-decoration: underline;
+    text-decoration-color: #0082e6;
+}
+
+#html5 {
+    position: absolute;
+    top: 102rem;
+    right: 45rem;
+    color: rgb(216, 58, 0);
+    font-size: 10rem;
+}
+
+#css3 {
+    position: absolute;
+    top: 102rem;
+    right: 30rem;
+    color: #0082e6;
+    font-size: 10rem;
+}
+
+.js-image {
+    position: absolute;
+    top: 115rem;
+    right: 45rem;
+    width: 150px;
+}
+
+.bootstrap-image {
+    position: absolute;
+    top: 115rem;
+    right: 30rem;
+    width: 150px;
+}
+
+.btn-skills {
+    position: absolute;
+    top: 122rem;
+    left: 24rem;
+    padding: 8px 20px;
+    color: white;
+    background-color: #0082e6;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.show-skills {
+    position: absolute;
+    top: 130rem;
+    width: 100%;
+    height: 600px;
+    background-color: #0082e6;
+}
+
+.booklist-image {
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 550px;
+}
+
+.booklist-info {
+    position: absolute;
+    top: 19rem;
+    font-size: 19px;
+    left: 17rem;
+    width: 500px;
+    color: #fff;
+}
+
+.btn-code {
+    position: absolute;
+    top: 28rem;
+    left: 17rem;
+    padding: 8px 20px;
+    color: #0082e6;
+    background-color: #fff;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.btn-demo {
+    position: absolute;
+    top: 28rem;
+    left: 30rem;
+    padding: 8px 20px;
+    color: #fff;
+    background-color: #0082e6;
+    border-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+
+.bootcamp-image {
+    position: absolute;
+    top: 5rem;
+    right: 15rem;
+    width: 550px;
+}
+
+.bootcamp-info {
+    position: absolute;
+    top: 24rem;
+    font-size: 19px;
+    right: 17rem;
+    width: 500px;
+    color: #fff;
+}
+
+.btn-boot-code {
+    position: absolute;
+    top: 32rem;
+    right: 25rem;
+    padding: 8px 20px;
+    color: #0082e6;
+    background-color: #fff;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.btn-boot-demo {
+    position: absolute;
+    top: 32rem;
+    right: 38rem;
+    padding: 8px 20px;
+    color: #fff;
+    background-color: #0082e6;
+    border-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.contact {
+    position: absolute;
+    top: 177rem;
+    font-size: 30px;
+    left: 12rem;
+    text-decoration: underline;
+    text-decoration-color: #0082e6;
+}
+
+.my-contact {
+    position: absolute;
+    top: 181rem;
+    font-size: 3rem;
+    left: 15rem;
+    width: 500px;
+}
+
+.my-contact span {
+    font-size: 2.9rem;
+}
+
+.details {
+    position: absolute;
+    top: 190rem;
+    font-size: 20px;
+    left: 15rem;
+    width: 500px;
+    color: #0082e6;
+}
+
+.full-name {
+    position: absolute;
+    top: 182rem;
+    right: 25rem;
+    width: 350px;
+    height: 40px;
+    border-color: #0082e6;
+    border-radius: 5px;
+}
+
+.email-address {
+    position: absolute;
+    top: 186rem;
+    right: 25rem;
+    width: 350px;
+    height: 40px;
+    border-color: #0082e6;
+    border-radius: 5px;
+}
+
+#textarea {
+    position: absolute;
+    top: 190rem;
+    right: 25rem;
+    border-color: #0082e6;
+    border-radius: 5px;
+}
+
+.contact-me {
+    position: absolute;
+    top: 196rem;
+    right: 25rem;
+    width: 350px;
+    height: 40px;
+    color: white;
+    background-color: #0082e6;
+    border-color: #0082e6;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer{
+    position: absolute;
+    top: 205rem;
+    background-color: #0082e6;
+    width: 100%;
+    height: 300px;
+}
+
+.footer-name {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    font-size: 45px;
+    line-height: 60px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.footer-phrase {
+    position: absolute;
+    top: 8rem;
+    color: #fff;
+    font-size: 20px;
+    line-height: 60px;
+    padding: 0 100px;
+}
+
+
+#footer-github {
+    position: absolute;
+    top: 8rem;
+    right: 21rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #fff;
+}
+
+#footer-linkedin {
+    position: absolute;
+    top: 8rem;
+    right: 19rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #fff;
+}
+
+#footer-instagram {
+    position: absolute;
+    top: 8rem;
+    right: 17rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #fff;
+}
+
+#footer-twitter {
+    position: absolute;
+    top: 8rem;
+    right: 15rem;
+    font-size: 27px;
+    cursor: pointer;
+    color: #fff;
+}
+.footer-sign {
+    position: absolute;
+    top: 16rem;
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+}
+
+.made {
+    position: absolute;
+    top: 1rem;
+    left: 55.5rem;
+    font-size: 20px;
+}
+
+#heart {
+    color: red;
+}
